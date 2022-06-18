@@ -4,7 +4,7 @@
 }
 body{
     background-image: url(images/catoon1-removebg-preview.png);
-    background-size:cover;
+    background-size:auto;
     background-color: hsl(0, 100%, 74%);
     background-blend-mode:soft-light;
     color: white;
